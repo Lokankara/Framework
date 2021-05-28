@@ -1,0 +1,4 @@
+{
+  "com.dev.relish.builder.MetricsCollector": "com.dev.relish.builder.OptimisticMetricsCollector",
+  "com.dev.relish.builder.DevRelAnalyzer": "com.dev.relish.builder.DevRelAnalyzerService"
+}
